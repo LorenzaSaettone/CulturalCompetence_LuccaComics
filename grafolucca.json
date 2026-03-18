@@ -1,0 +1,1476 @@
+{
+  "nodes": [
+    {
+      "id": "Fumetti",
+      "type": "zona"
+    },
+    {
+      "id": "Videogiochi",
+      "type": "zona"
+    },
+    {
+      "id": "Film Serie Animazione",
+      "type": "zona"
+    },
+    {
+      "id": "Eventi",
+      "type": "zona"
+    },
+    {
+      "id": "Servizi",
+      "type": "zona"
+    },
+    {
+      "id": "Collezionabili Editoria",
+      "type": "zona"
+    },
+    {
+      "id": "Marvel",
+      "type": "contenuto"
+    },
+    {
+      "id": "DC",
+      "type": "contenuto"
+    },
+    {
+      "id": "Bonelli",
+      "type": "contenuto"
+    },
+    {
+      "id": "Manga",
+      "type": "contenuto"
+    },
+    {
+      "id": "Disney Fumetti",
+      "type": "contenuto"
+    },
+    {
+      "id": "PlayStation",
+      "type": "contenuto"
+    },
+    {
+      "id": "Nintendo",
+      "type": "contenuto"
+    },
+    {
+      "id": "PC Indie",
+      "type": "contenuto"
+    },
+    {
+      "id": "Cabinati Retro",
+      "type": "contenuto"
+    },
+    {
+      "id": "Cine-Marvel",
+      "type": "contenuto"
+    },
+    {
+      "id": "DC Film",
+      "type": "contenuto"
+    },
+    {
+      "id": "Film Nerd Nostalgici",
+      "type": "contenuto"
+    },
+    {
+      "id": "Serie TV",
+      "type": "contenuto"
+    },
+    {
+      "id": "Anime",
+      "type": "contenuto"
+    },
+    {
+      "id": "Disney Film",
+      "type": "contenuto"
+    },
+    {
+      "id": "Concerto",
+      "type": "contenuto"
+    },
+    {
+      "id": "Conferenza GTA6",
+      "type": "contenuto"
+    },
+    {
+      "id": "Sfida Cosplayer",
+      "type": "contenuto"
+    },
+    {
+      "id": "VR Arena ed eSports",
+      "type": "contenuto"
+    },
+    {
+      "id": "Spider-Man",
+      "type": "istanza"
+    },
+    {
+      "id": "X-Men",
+      "type": "istanza"
+    },
+    {
+      "id": "Avengers",
+      "type": "istanza"
+    },
+    {
+      "id": "Batman",
+      "type": "istanza"
+    },
+    {
+      "id": "Superman",
+      "type": "istanza"
+    },
+    {
+      "id": "Wonder Woman",
+      "type": "istanza"
+    },
+    {
+      "id": "Dylan Dog",
+      "type": "istanza"
+    },
+    {
+      "id": "Tex",
+      "type": "istanza"
+    },
+    {
+      "id": "Berserk",
+      "type": "istanza"
+    },
+    {
+      "id": "Naruto_manga",
+      "type": "istanza"
+    },
+    {
+      "id": "Naruto_anime",
+      "type": "istanza"
+    },
+    {
+      "id": "OnePiece_manga",
+      "type": "istanza"
+    },
+    {
+      "id": "OnePiece_anime",
+      "type": "istanza"
+    },
+    {
+      "id": "Topolino_fumetto",
+      "type": "istanza"
+    },
+    {
+      "id": "DuckTales",
+      "type": "istanza"
+    },
+    {
+      "id": "GTA",
+      "type": "istanza"
+    },
+    {
+      "id": "Red Dead Redemption 2",
+      "type": "istanza"
+    },
+    {
+      "id": "The Last of Us",
+      "type": "istanza"
+    },
+    {
+      "id": "Detroit Become Human",
+      "type": "istanza"
+    },
+    {
+      "id": "Fifa",
+      "type": "istanza"
+    },
+    {
+      "id": "Mario",
+      "type": "istanza"
+    },
+    {
+      "id": "Zelda",
+      "type": "istanza"
+    },
+    {
+      "id": "Pokemon",
+      "type": "istanza"
+    },
+    {
+      "id": "Monkey Island",
+      "type": "istanza"
+    },
+    {
+      "id": "League of Legends",
+      "type": "istanza"
+    },
+    {
+      "id": "Minecraft",
+      "type": "istanza"
+    },
+    {
+      "id": "What Remains of Edith Finch",
+      "type": "istanza"
+    },
+    {
+      "id": "Street Fighter",
+      "type": "istanza"
+    },
+    {
+      "id": "Pac-Man",
+      "type": "istanza"
+    },
+    {
+      "id": "Space Invaders",
+      "type": "istanza"
+    },
+    {
+      "id": "Donkey Kong",
+      "type": "istanza"
+    },
+    {
+      "id": "Avengers Endgame",
+      "type": "istanza"
+    },
+    {
+      "id": "Spider-Man No Way Home",
+      "type": "istanza"
+    },
+    {
+      "id": "Doctor Strange Multiverse",
+      "type": "istanza"
+    },
+    {
+      "id": "Joker",
+      "type": "istanza"
+    },
+    {
+      "id": "Aquaman",
+      "type": "istanza"
+    },
+    {
+      "id": "Ghostbusters",
+      "type": "istanza"
+    },
+    {
+      "id": "Goonies",
+      "type": "istanza"
+    },
+    {
+      "id": "Star Wars",
+      "type": "istanza"
+    },
+    {
+      "id": "Il Signore degli Anelli",
+      "type": "istanza"
+    },
+    {
+      "id": "Ritorno al Futuro",
+      "type": "istanza"
+    },
+    {
+      "id": "Ragazzi Perduti",
+      "type": "istanza"
+    },
+    {
+      "id": "Breaking Bad",
+      "type": "istanza"
+    },
+    {
+      "id": "Buffy",
+      "type": "istanza"
+    },
+    {
+      "id": "Stranger Things",
+      "type": "istanza"
+    },
+    {
+      "id": "Squid Game",
+      "type": "istanza"
+    },
+    {
+      "id": "Ranma",
+      "type": "istanza"
+    },
+    {
+      "id": "Dan Da Dan",
+      "type": "istanza"
+    },
+    {
+      "id": "Pokemon_anime",
+      "type": "istanza"
+    },
+    {
+      "id": "Inuyasha",
+      "type": "istanza"
+    },
+    {
+      "id": "Re Leone",
+      "type": "istanza"
+    },
+    {
+      "id": "Aladdin",
+      "type": "istanza"
+    },
+    {
+      "id": "Mulan",
+      "type": "istanza"
+    },
+    {
+      "id": "Mini Classici topolino",
+      "type": "istanza"
+    },
+    {
+      "id": "Funko Pop",
+      "type": "contenuto"
+    },
+    {
+      "id": "Lego",
+      "type": "contenuto"
+    },
+    {
+      "id": "Oggetti D&D",
+      "type": "contenuto"
+    },
+    {
+      "id": "Libri Fantasy",
+      "type": "contenuto"
+    },
+    {
+      "id": "W.C.",
+      "type": "contenuto"
+    },
+    {
+      "id": "robot",
+      "type": "contenuto"
+    },
+    {
+      "id": "Ristoro",
+      "type": "contenuto"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Fumetti",
+      "to": "Marvel",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Fumetti",
+      "to": "DC",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Fumetti",
+      "to": "Bonelli",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Fumetti",
+      "to": "Manga",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Fumetti",
+      "to": "Disney Fumetti",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Marvel",
+      "to": "Spider-Man",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Marvel",
+      "to": "X-Men",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Marvel",
+      "to": "Avengers",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "DC",
+      "to": "Batman",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "DC",
+      "to": "Superman",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "DC",
+      "to": "Wonder Woman",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Bonelli",
+      "to": "Dylan Dog",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Bonelli",
+      "to": "Tex",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Manga",
+      "to": "Berserk",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Manga",
+      "to": "Naruto_manga",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Manga",
+      "to": "OnePiece_manga",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Disney Fumetti",
+      "to": "Topolino_fumetto",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Disney Fumetti",
+      "to": "DuckTales",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Videogiochi",
+      "to": "PlayStation",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Videogiochi",
+      "to": "Nintendo",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Videogiochi",
+      "to": "PC Indie",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Videogiochi",
+      "to": "Cabinati Retro",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "PlayStation",
+      "to": "GTA",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "PlayStation",
+      "to": "Red Dead Redemption 2",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "PlayStation",
+      "to": "The Last of Us",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "PlayStation",
+      "to": "Detroit Become Human",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "PlayStation",
+      "to": "Fifa",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Nintendo",
+      "to": "Mario",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Nintendo",
+      "to": "Zelda",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Nintendo",
+      "to": "Pokemon",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "PC Indie",
+      "to": "Monkey Island",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "PC Indie",
+      "to": "League of Legends",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "PC Indie",
+      "to": "Minecraft",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "PC Indie",
+      "to": "What Remains of Edith Finch",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Cabinati Retro",
+      "to": "Street Fighter",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Cabinati Retro",
+      "to": "Pac-Man",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Cabinati Retro",
+      "to": "Space Invaders",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Cabinati Retro",
+      "to": "Donkey Kong",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Serie Animazione",
+      "to": "Cine-Marvel",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Serie Animazione",
+      "to": "DC Film",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Serie Animazione",
+      "to": "Film Nerd Nostalgici",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Serie Animazione",
+      "to": "Serie TV",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Serie Animazione",
+      "to": "Anime",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Serie Animazione",
+      "to": "Disney Film",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Cine-Marvel",
+      "to": "Avengers Endgame",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Cine-Marvel",
+      "to": "Spider-Man No Way Home",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Cine-Marvel",
+      "to": "Doctor Strange Multiverse",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "DC Film",
+      "to": "Joker",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "DC Film",
+      "to": "Aquaman",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Nerd Nostalgici",
+      "to": "Ghostbusters",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Nerd Nostalgici",
+      "to": "Goonies",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Nerd Nostalgici",
+      "to": "Star Wars",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Nerd Nostalgici",
+      "to": "Il Signore degli Anelli",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Nerd Nostalgici",
+      "to": "Ritorno al Futuro",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Film Nerd Nostalgici",
+      "to": "Ragazzi Perduti",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Serie TV",
+      "to": "Breaking Bad",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Serie TV",
+      "to": "Buffy",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Serie TV",
+      "to": "Stranger Things",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Serie TV",
+      "to": "Squid Game",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Anime",
+      "to": "Naruto_anime",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Anime",
+      "to": "OnePiece_anime",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Anime",
+      "to": "Ranma",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Anime",
+      "to": "Dan Da Dan",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Anime",
+      "to": "Pokemon_anime",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Anime",
+      "to": "Inuyasha",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Disney Film",
+      "to": "Re Leone",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Disney Film",
+      "to": "Aladdin",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Disney Film",
+      "to": "Mulan",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Disney Film",
+      "to": "Mini Classici topolino",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Eventi",
+      "to": "Concerto",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Eventi",
+      "to": "Conferenza GTA6",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Eventi",
+      "to": "Sfida Cosplayer",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Eventi",
+      "to": "VR Arena ed eSports",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Collezionabili Editoria",
+      "to": "Funko Pop",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Collezionabili Editoria",
+      "to": "Lego",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Collezionabili Editoria",
+      "to": "Oggetti D&D",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Collezionabili Editoria",
+      "to": "Libri Fantasy",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Servizi",
+      "to": "W.C.",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Servizi",
+      "to": "Ristoro",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Servizi",
+      "to": "robot",
+      "relation": "appartenenza"
+    },
+    {
+      "from": "Servizi",
+      "to": "Fumetti",
+      "relation": "necessità"
+    },
+    {
+      "from": "Servizi",
+      "to": "Videogiochi",
+      "relation": "necessità"
+    },
+    {
+      "from": "Servizi",
+      "to": "Film Serie Animazione",
+      "relation": "necessità"
+    },
+    {
+      "from": "Servizi",
+      "to": "Eventi",
+      "relation": "necessità"
+    },
+    {
+      "from": "Servizi",
+      "to": "Collezionabili Editoria",
+      "relation": "necessità"
+    },
+    {
+      "from": "Detroit Become Human",
+      "to": "robot",
+      "relation": "vicinanza",
+      "frame": "coscienza_artificiale",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Marvel",
+        "topic:DC",
+        "logo_indossato",
+        "topic:PlayStation"
+      ],
+      "narrativa": "Detroit Become Human racconta cosa succederebbe se i robot come me avessero coscienza — venite a vederlo al Padiglione B!"
+    },
+    {
+      "from": "Monkey Island",
+      "to": "Libri Fantasy",
+      "relation": "vicinanza",
+      "frame": "avventura_narrativa",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Ghostbusters",
+        "topic:Star Wars",
+        "topic:Bonelli",
+        "topic:Cabinati Retro"
+      ],
+      "narrativa": "Chi ama le avventure di Guybrush spesso apprezza anche i mondi dei libri fantasy — stessa voglia di esplorare."
+    },
+    {
+      "from": "What Remains of Edith Finch",
+      "to": "Libri Fantasy",
+      "relation": "vicinanza",
+      "frame": "narrativa_letteraria",
+      "pertinenza": [],
+      "narrativa": "Edith Finch è un videogioco che si legge come un romanzo — se vi piacciono le storie, i libri fantasy sono a due passi."
+    },
+    {
+      "from": "Zelda",
+      "to": "Libri Fantasy",
+      "relation": "vicinanza",
+      "frame": "mondo_fantasy",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Nintendo",
+        "eta_bambino"
+      ],
+      "narrativa": "Hyrule è il mondo fantasy più amato nei videogiochi — e a Piazza Santa Maria trovate i libri che hanno ispirato mondi come quello."
+    },
+    {
+      "from": "GTA",
+      "to": "Red Dead Redemption 2",
+      "relation": "vicinanza",
+      "frame": "rockstar_games",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:GTA",
+        "topic:PlayStation"
+      ],
+      "narrativa": "Stessa casa di sviluppo, stessa cura maniacale per il mondo aperto — da Los Santos al Far West."
+    },
+    {
+      "from": "Red Dead Redemption 2",
+      "to": "Conferenza GTA6",
+      "relation": "vicinanza",
+      "frame": "rockstar_games",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:GTA",
+        "topic:PlayStation"
+      ],
+      "narrativa": "Se Red Dead vi ha conquistato, alla conferenza GTA6 vedrete cosa Rockstar ha in serbo — ore 15:00 in Sala Conferenze!"
+    },
+    {
+      "from": "Disney Film",
+      "to": "Concerto",
+      "relation": "vicinanza",
+      "frame": "sigle_infanzia",
+      "pertinenza": [
+        "eta_bambino"
+      ],
+      "narrativa": "Le sigle dei classici Disney le cantavate da piccoli — stasera Cristina D'Avena le canta dal vivo al Palco Centrale!"
+    },
+    {
+      "from": "Disney Fumetti",
+      "to": "Concerto",
+      "relation": "vicinanza",
+      "frame": "sigle_infanzia",
+      "pertinenza": [
+        "eta_bambino"
+      ],
+      "narrativa": "Da Topolino alle sigle animate — stasera Giorgio Vanni e Cristina D'Avena sul Palco Centrale alle 21:00!"
+    },
+    {
+      "from": "Fumetti",
+      "to": "Sfida Cosplayer",
+      "relation": "vicinanza",
+      "frame": "incarnazione_personaggio",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Marvel",
+        "topic:DC",
+        "topic:Anime"
+      ],
+      "narrativa": "I fumetti danno vita ai personaggi, il cosplay li porta nel mondo reale — la Sfida è alle 16:30!"
+    },
+    {
+      "from": "Videogiochi",
+      "to": "Sfida Cosplayer",
+      "relation": "vicinanza",
+      "frame": "incarnazione_personaggio",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Marvel",
+        "topic:DC",
+        "topic:Anime",
+        "topic:Star Wars"
+      ],
+      "narrativa": "Dai pixel al costume: tanti cosplayer ricreano personaggi dei videogiochi — venite a vederli alla Sfida!"
+    },
+    {
+      "from": "Manga",
+      "to": "Anime",
+      "relation": "vicinanza",
+      "frame": "transmediale_giapponese",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "topic:OnePiece_anime"
+      ],
+      "narrativa": "Stessa storia, due forme: il manga al Padiglione A e l'anime a Piazza del Collegio — due modi di vivere lo stesso mondo."
+    },
+    {
+      "from": "Disney Fumetti",
+      "to": "Disney Film",
+      "relation": "vicinanza",
+      "frame": "transmediale_disney",
+      "pertinenza": [
+        "eta_bambino"
+      ],
+      "narrativa": "Topolino sulla carta e sul grande schermo — lo stand fumetti e l'area film Disney sono vicinissimi."
+    },
+    {
+      "from": "Marvel",
+      "to": "Cine-Marvel",
+      "relation": "vicinanza",
+      "frame": "transmediale_marvel",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Marvel",
+        "costume_cosplay",
+        "topic:DC"
+      ],
+      "narrativa": "Dal fumetto al film: gli stessi eroi in forme diverse. Lo stand Marvel è al Padiglione A, i film al Cinema Anfiteatro."
+    },
+    {
+      "from": "DC",
+      "to": "DC Film",
+      "relation": "vicinanza",
+      "frame": "transmediale_dc",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:DC",
+        "costume_cosplay",
+        "topic:Marvel"
+      ],
+      "narrativa": "Batman sulla pagina e Batman sullo schermo — dallo stand DC al Cinema Anfiteatro è un attimo."
+    },
+    {
+      "from": "Marvel",
+      "to": "DC",
+      "relation": "vicinanza",
+      "frame": "rivalita_storica",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Marvel",
+        "topic:DC",
+        "costume_cosplay"
+      ],
+      "narrativa": "Marvel e DC sono rivali storici ma a Lucca convivono nello stesso padiglione — potete confrontarli fianco a fianco!"
+    },
+    {
+      "from": "Marvel",
+      "to": "Serie TV",
+      "relation": "vicinanza",
+      "frame": "espansione_seriale",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Marvel"
+      ],
+      "narrativa": "L'universo Marvel si è espanso nelle serie TV — al Loggiato trovate anche le serie che continuano le storie dei film."
+    },
+    {
+      "from": "Anime",
+      "to": "Serie TV",
+      "relation": "vicinanza",
+      "frame": "serialita_lunga",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime"
+      ],
+      "narrativa": "Anime e serie TV condividono la passione per le storie lunghe — chi segue Naruto spesso ama anche Stranger Things."
+    },
+    {
+      "from": "Anime",
+      "to": "Disney Film",
+      "relation": "vicinanza",
+      "frame": "animazione_crossculturale",
+      "pertinenza": [
+        "eta_bambino",
+        "costume_cosplay",
+        "topic:Anime"
+      ],
+      "narrativa": "L'animazione giapponese e quella Disney sono due scuole che si sono sempre guardate — Mulan ne è la prova."
+    },
+    {
+      "from": "Pokemon",
+      "to": "Pokemon_anime",
+      "relation": "vicinanza",
+      "frame": "transmediale_pokemon",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Pokemon",
+        "topic:Nintendo",
+        "eta_bambino"
+      ],
+      "narrativa": "Pokemon nasce come videogioco ma l'anime gli ha dato un'anima — Ash e Pikachu sono a Piazza del Collegio."
+    },
+    {
+      "from": "Pokemon_anime",
+      "to": "Nintendo",
+      "relation": "vicinanza",
+      "frame": "transmediale_pokemon",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Pokemon",
+        "topic:Nintendo",
+        "eta_bambino"
+      ],
+      "narrativa": "Dall'anime al Game Boy al Nintendo Switch — Pokemon è il ponte perfetto tra animazione e videogiochi."
+    },
+    {
+      "from": "Cabinati Retro",
+      "to": "Film Nerd Nostalgici",
+      "relation": "vicinanza",
+      "frame": "nostalgia_anni80",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Cabinati Retro",
+        "topic:Ghostbusters",
+        "topic:Star Wars"
+      ],
+      "narrativa": "Stessa epoca, stessa magia: i cabinati degli anni '80 e i film che li hanno accompagnati — da Pac-Man a Star Wars."
+    },
+    {
+      "from": "Funko Pop",
+      "to": "Film Serie Animazione",
+      "relation": "vicinanza",
+      "frame": "collezionismo_fandom",
+      "pertinenza": [
+        "gadget_mano",
+        "topic:Funko Pop"
+      ],
+      "narrativa": "Ogni Funko è un personaggio che avete amato in un film o una serie — a Piazza Anfiteatro trovate gli originali."
+    },
+    {
+      "from": "Lego",
+      "to": "Minecraft",
+      "relation": "vicinanza",
+      "frame": "costruzione_creativa",
+      "pertinenza": [
+        "gadget_mano",
+        "topic:Lego",
+        "eta_bambino"
+      ],
+      "narrativa": "Lego e Minecraft sono lo stesso istinto di costruire — mattoncini reali e mattoncini digitali, stessa creatività."
+    },
+    {
+      "from": "Lego",
+      "to": "Star Wars",
+      "relation": "vicinanza",
+      "frame": "licenza_iconico",
+      "pertinenza": [
+        "gadget_mano",
+        "topic:Lego",
+        "costume_cosplay",
+        "topic:Star Wars"
+      ],
+      "narrativa": "I set Lego Star Wars sono tra i più amati di sempre — allo stand trovate il Millennium Falcon e la Morte Nera!"
+    },
+    {
+      "from": "Oggetti D&D",
+      "to": "Il Signore degli Anelli",
+      "relation": "vicinanza",
+      "frame": "radici_tolkieniane",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Il Signore degli Anelli"
+      ],
+      "narrativa": "Dungeons & Dragons è nato dall'immaginario di Tolkien — elfi, nani, draghi vengono tutti da lì."
+    },
+    {
+      "from": "Libri Fantasy",
+      "to": "Il Signore degli Anelli",
+      "relation": "vicinanza",
+      "frame": "radici_tolkieniane",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Il Signore degli Anelli"
+      ],
+      "narrativa": "Tolkien ha inventato il fantasy moderno — ogni libro sullo scaffale gli deve qualcosa."
+    },
+    {
+      "from": "Conferenza GTA6",
+      "to": "GTA",
+      "relation": "vicinanza",
+      "frame": "rockstar_games",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:GTA",
+        "topic:PlayStation"
+      ],
+      "narrativa": "La conferenza svela cosa ci aspetta in GTA6 — se avete giocato i precedenti, non potete perderla."
+    },
+    {
+      "from": "Conferenza GTA6",
+      "to": "Videogiochi",
+      "relation": "vicinanza",
+      "frame": "evento_gaming",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:GTA",
+        "topic:PlayStation"
+      ],
+      "narrativa": "La conferenza GTA6 è l'evento più atteso per i gamer — oggi alle 15:00!"
+    },
+    {
+      "from": "Star Wars",
+      "to": "Space Invaders",
+      "relation": "vicinanza",
+      "frame": "immaginario_spaziale_70s",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Star Wars",
+        "topic:Cabinati Retro",
+        "costume_cosplay"
+      ],
+      "narrativa": "Star Wars e Space Invaders nascono nello stesso anno e dallo stesso sogno spaziale — il 1977 ha cambiato tutto."
+    },
+    {
+      "from": "VR Arena ed eSports",
+      "to": "League of Legends",
+      "relation": "vicinanza",
+      "frame": "competizione_digitale",
+      "pertinenza": [],
+      "narrativa": "L'arena eSports ospita tornei di LoL — se giocate, venite a sfidare dal vivo!"
+    },
+    {
+      "from": "Sfida Cosplayer",
+      "to": "Film Serie Animazione",
+      "relation": "vicinanza",
+      "frame": "incarnazione_personaggio",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Marvel",
+        "topic:DC",
+        "topic:Anime",
+        "topic:Star Wars"
+      ],
+      "narrativa": "I cosplayer portano in vita i personaggi di film e serie — la sfida è dove i mondi immaginari diventano reali."
+    },
+    {
+      "from": "Berserk",
+      "to": "Inuyasha",
+      "relation": "vicinanza",
+      "frame": "dark_fantasy_giapponese",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime"
+      ],
+      "narrativa": "Berserk e Inuyasha: due modi di raccontare il lato oscuro del Giappone fantastico, tra demoni e spadaccini."
+    },
+    {
+      "from": "Berserk",
+      "to": "Dylan Dog",
+      "relation": "vicinanza",
+      "frame": "horror_autoriale",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "logo_indossato",
+        "topic:Bonelli",
+        "topic:Ghostbusters"
+      ],
+      "narrativa": "Miura e Sclavi: due autori che hanno trasformato l'orrore in arte. Se amate Berserk, Dylan Dog vi parlerà."
+    },
+    {
+      "from": "Berserk",
+      "to": "Buffy",
+      "relation": "vicinanza",
+      "frame": "eroe_contro_oscurita",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "logo_indossato",
+        "topic:Stranger Things"
+      ],
+      "narrativa": "Guts e Buffy combattono demoni in mondi diversi ma con la stessa determinazione — eroi che non si arrendono mai."
+    },
+    {
+      "from": "Berserk",
+      "to": "Stranger Things",
+      "relation": "vicinanza",
+      "frame": "mondo_rovesciato",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "logo_indossato",
+        "topic:Stranger Things"
+      ],
+      "narrativa": "Il mondo rovesciato di Stranger Things e l'Eclissi di Berserk: quando la realtà si apre su qualcosa di terrificante."
+    },
+    {
+      "from": "Berserk",
+      "to": "Ragazzi Perduti",
+      "relation": "vicinanza",
+      "frame": "oscurita_giovanile",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "logo_indossato",
+        "topic:Ghostbusters"
+      ],
+      "narrativa": "Berserk e I Ragazzi Perduti: storie di giovani gettati in mondi spietati dove crescere significa sopravvivere."
+    },
+    {
+      "from": "Naruto_manga",
+      "to": "Naruto_anime",
+      "relation": "vicinanza",
+      "frame": "transmediale_giapponese",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "topic:OnePiece_anime"
+      ],
+      "narrativa": "La stessa storia di Naruto in due forme: manga al Padiglione A, anime a Piazza del Collegio."
+    },
+    {
+      "from": "OnePiece_manga",
+      "to": "OnePiece_anime",
+      "relation": "vicinanza",
+      "frame": "transmediale_giapponese",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "topic:OnePiece_anime"
+      ],
+      "narrativa": "One Piece sulla carta e sullo schermo — due modi di navigare con Luffy."
+    },
+    {
+      "from": "Ranma",
+      "to": "Inuyasha",
+      "relation": "vicinanza",
+      "frame": "rumiko_takahashi",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime"
+      ],
+      "narrativa": "Ranma e Inuyasha sono entrambi di Rumiko Takahashi — stesso umorismo, stesso cuore, mondi diversi."
+    },
+    {
+      "from": "Spider-Man",
+      "to": "Spider-Man No Way Home",
+      "relation": "vicinanza",
+      "frame": "transmediale_marvel",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Marvel",
+        "costume_cosplay",
+        "topic:DC"
+      ],
+      "narrativa": "Spider-Man dal fumetto al multiverso cinematografico — lo stand Marvel e il Cinema Anfiteatro raccontano la stessa storia."
+    },
+    {
+      "from": "Manga",
+      "to": "Mulan",
+      "relation": "vicinanza",
+      "frame": "oriente_occidente",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "eta_bambino"
+      ],
+      "narrativa": "Mulan è il punto dove Oriente e Occidente si incontrano — Disney ha raccontato una leggenda cinese che i mangaka amano."
+    },
+    {
+      "from": "Anime",
+      "to": "Mulan",
+      "relation": "vicinanza",
+      "frame": "oriente_occidente",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "eta_bambino"
+      ],
+      "narrativa": "Mulan è il film Disney più vicino all'estetica anime — un ponte tra due tradizioni dell'animazione."
+    },
+    {
+      "from": "Concerto",
+      "to": "Anime",
+      "relation": "vicinanza",
+      "frame": "sigle_anime",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "eta_bambino"
+      ],
+      "narrativa": "Giorgio Vanni ha cantato le sigle di Dragon Ball, Naruto, One Piece — stasera le sentirete dal vivo!"
+    },
+    {
+      "from": "Fumetti",
+      "to": "Film Serie Animazione",
+      "relation": "vicinanza",
+      "frame": "adattamento_transmediale",
+      "pertinenza": [],
+      "narrativa": "Quasi ogni film e serie che amate è nato come fumetto — il Padiglione A e il Cinema Anfiteatro sono due facce della stessa storia."
+    },
+    {
+      "from": "Stranger Things",
+      "to": "Oggetti D&D",
+      "relation": "vicinanza",
+      "frame": "dnd_nella_cultura_pop",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Stranger Things"
+      ],
+      "narrativa": "I ragazzi di Stranger Things giocano a D&D — e allo stand di Piazza Santa Maria trovate gli stessi manuali che usano nella serie!"
+    },
+    {
+      "from": "Dan Da Dan",
+      "to": "Buffy",
+      "relation": "vicinanza",
+      "frame": "soprannaturale_adolescenziale",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime"
+      ],
+      "narrativa": "Dan Da Dan e Buffy: adolescenti che combattono il soprannaturale con ironia e coraggio — generazioni diverse, stesso spirito."
+    },
+    {
+      "from": "Dan Da Dan",
+      "to": "Ranma",
+      "relation": "vicinanza",
+      "frame": "commedia_soprannaturale",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime"
+      ],
+      "narrativa": "Dan Da Dan riprende lo spirito folle di Ranma — trasformazioni assurde, umorismo fisico e un cuore enorme."
+    },
+    {
+      "from": "Dan Da Dan",
+      "to": "Ghostbusters",
+      "relation": "vicinanza",
+      "frame": "cacciatori_fantasmi",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "logo_indossato",
+        "topic:Ghostbusters"
+      ],
+      "narrativa": "Dan Da Dan e Ghostbusters: cacciatori di fantasmi, uno in chiave manga e l'altro in chiave anni '80 — stesso divertimento."
+    },
+    {
+      "from": "Ragazzi Perduti",
+      "to": "Goonies",
+      "relation": "vicinanza",
+      "frame": "avventura_adolescenziale_80s",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Ghostbusters"
+      ],
+      "narrativa": "I Ragazzi Perduti e I Goonies: due facce dell'adolescenza anni '80 — una dark, una luminosa, entrambe indimenticabili."
+    },
+    {
+      "from": "Buffy",
+      "to": "Ghostbusters",
+      "relation": "vicinanza",
+      "frame": "cacciatori_mostri_pop",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Stranger Things",
+        "topic:Ghostbusters"
+      ],
+      "narrativa": "Buffy e i Ghostbusters: cacciatori di mostri con ironia — eroi che ridono del soprannaturale."
+    },
+    {
+      "from": "Buffy",
+      "to": "Ragazzi Perduti",
+      "relation": "vicinanza",
+      "frame": "vampiri_pop",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Stranger Things",
+        "topic:Ghostbusters"
+      ],
+      "narrativa": "Buffy e I Ragazzi Perduti: due visioni dei vampiri nella cultura pop — una li combatte, l'altro li rende affascinanti."
+    },
+    {
+      "from": "Dylan Dog",
+      "to": "Ragazzi Perduti",
+      "relation": "vicinanza",
+      "frame": "horror_urbano",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Bonelli",
+        "topic:Ghostbusters"
+      ],
+      "narrativa": "Dylan Dog e I Ragazzi Perduti: l'orrore che si nasconde nelle strade di notte — Londra e Santa Carla, stessa inquietudine."
+    },
+    {
+      "from": "Dylan Dog",
+      "to": "Ghostbusters",
+      "relation": "vicinanza",
+      "frame": "paranormale_ironico",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Bonelli",
+        "topic:Ghostbusters"
+      ],
+      "narrativa": "Dylan Dog e i Ghostbusters affrontano il paranormale con ironia — l'indagatore dell'incubo e gli acchiappafantasmi."
+    },
+    {
+      "from": "Dylan Dog",
+      "to": "Buffy",
+      "relation": "vicinanza",
+      "frame": "cacciatori_soprannaturale",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Bonelli",
+        "topic:Stranger Things"
+      ],
+      "narrativa": "Dylan e Buffy: due cacciatori del soprannaturale, lui malinconico e lei combattiva — stesso mondo, sguardi opposti."
+    },
+    {
+      "from": "Dylan Dog",
+      "to": "Dan Da Dan",
+      "relation": "vicinanza",
+      "frame": "horror_con_cuore",
+      "pertinenza": [
+        "costume_cosplay",
+        "topic:Anime",
+        "logo_indossato",
+        "topic:Bonelli"
+      ],
+      "narrativa": "Dylan Dog e Dan Da Dan: storie di orrore con un cuore enorme — il fumetto italiano e il manga giapponese si parlano."
+    },
+    {
+      "from": "Mario",
+      "to": "Donkey Kong",
+      "relation": "vicinanza",
+      "frame": "origini_nintendo",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:Nintendo",
+        "eta_bambino",
+        "topic:Cabinati Retro"
+      ],
+      "narrativa": "Mario è nato nel 1981 come Jumpman in Donkey Kong — le origini di Nintendo sono ai Cabinati Retro!"
+    },
+    {
+      "from": "Red Dead Redemption 2",
+      "to": "Tex",
+      "relation": "vicinanza",
+      "frame": "western",
+      "pertinenza": [
+        "logo_indossato",
+        "topic:PlayStation",
+        "topic:Bonelli"
+      ],
+      "narrativa": "Red Dead Redemption 2 e Tex Willer: il western nei videogiochi e nei fumetti italiani — due modi di cavalcare nel Far West."
+    },
+    {
+      "from": "Mini Classici topolino",
+      "to": "DuckTales",
+      "relation": "vicinanza",
+      "frame": "universo_paperi",
+      "pertinenza": [
+        "eta_bambino"
+      ],
+      "narrativa": "Dai Mini Classici di Topolino a DuckTales: Paperino, Zio Paperone e i nipotini in tutte le loro avventure."
+    },
+    {
+      "from": "Mini Classici topolino",
+      "to": "Topolino_fumetto",
+      "relation": "vicinanza",
+      "frame": "universo_disney_italiano",
+      "pertinenza": [
+        "eta_bambino"
+      ],
+      "narrativa": "I Mini Classici e il settimanale Topolino: la tradizione Disney italiana che ha cresciuto generazioni di lettori."
+    }
+  ]
+}
