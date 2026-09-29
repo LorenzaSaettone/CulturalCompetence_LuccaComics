@@ -1441,7 +1441,7 @@ def genera_risposta_robot(azione, target, belief, G, wm):
                         "rispondi_fattuale":
                 f"{target} non ha un padiglione autonomo. {script_str}",
 
-            "suggerisci_stand":    f"Ho notato il tuo interesse per {target}! {script_str}",
+            "suggerisci_stand":    f"Magari ti interessa {target}! {script_str}",
             "suggerisci_evento":   f"Attenzione: {script_str}",
             "mostra_connessione":  f"Per {target}: {script_str} Guarda anche: {conn_str}.",
             "suggerisci_adiacente":f"Visto che hai gia' visitato quell'area, "
